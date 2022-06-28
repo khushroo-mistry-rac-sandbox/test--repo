@@ -1,0 +1,14 @@
+name: test--repo
+id: 'ari:cloud:compass:cdf1bcde-37d4-4527-80e3-b063314e141a:component/654462ee-e1f3-4c39-b74b-c7ed873c2160/0268ff3a-95e5-425f-96f4-f982f71a2e57'
+description: Test public repo sandbox
+ownerId: 'ari:cloud:teams::team/0584fe99-b43e-4b7e-9f53-f5dea8584bd7'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/khushroo-mistry-rac-sandbox/test--repo'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
