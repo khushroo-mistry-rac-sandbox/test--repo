@@ -37,7 +37,7 @@ jobs:
           
   deployment:
     runs-on: ubuntu-latest
-    environment: production
+    environment: UAT
     steps:
       - name: Run a one line script
         run: echo Deploying to Production
